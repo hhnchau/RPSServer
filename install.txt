@@ -1,0 +1,5 @@
+soket.io, mysql
+
+//For Debuge
+npm install -g node-inspector
+node-debug server.js
